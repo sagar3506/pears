@@ -1,0 +1,8 @@
+{
+    "require": {
+        "kleiram/transmission-php": "dev-master",
+		"geoip2/geoip2":"~2.0",
+		"christeredvartsen/php-bittorrent":"dev-master",
+        "yohang88/letter-avatar": "^1.0"
+    }
+}
